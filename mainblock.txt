@@ -5,3 +5,6 @@
 127.0.0.1 securly.com
 127.0.0.1 www.securly.com
 127.0.0.1 *.securly.com
+127.0.0.1 salams.app
+127.0.0.1 www.salams.app
+127.0.0.1 *.salams.app
