@@ -8,3 +8,4 @@
 127.0.0.1 salams.app
 127.0.0.1 www.salams.app
 127.0.0.1 *.salams.app
+127.0.0.1 story.snapchat.com
